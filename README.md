@@ -56,7 +56,7 @@ exercice_catia_v5
 |---|---|
 | ![Multi-view](screenshots/multiview.png) | ![Isometric](screenshots/view_iso.png) |
 
-> 📁 Placez vos captures d'écran dans un dossier `screenshots/` à la racine du projet.
+
 
 ---
 
