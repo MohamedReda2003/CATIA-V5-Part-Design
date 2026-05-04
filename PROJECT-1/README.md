@@ -83,7 +83,6 @@ exercice_catia_v5
 
 ## 👤 Auteur
 
-> Remplacez cette section avec vos informations personnelles.
 
 **Nom :** Mohamed Reda Zhar   
 **GitHub :** [@MohamedReda2003](https://github.com/MohamedReda2003)  
