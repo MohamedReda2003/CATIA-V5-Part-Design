@@ -1,7 +1,7 @@
 # 🔧 Exercice CATIA V5 — Arbre mécanique avec rainure
 
 <p align="center">
-  <img src="../screenshots/view_iso.png" alt="Arbre CATIA V5 - Vue isométrique" width="600"/>
+  <img src="../screenshots/view_iso-2.png" alt="Arbre CATIA V5 - Vue isométrique" width="600"/>
 </p>
 
 ## 📋 Description
@@ -49,7 +49,7 @@ shaft_catia_v5
 
 | Vue multi-fenêtres | Vue isométrique |
 |---|---|
-| ![Multi-view](../screenshots/multiview.png) | ![Isometric](../screenshots/view_iso.png) |
+| ![Multi-view](../screenshots/multiview-2.png) | ![Isometric](../screenshots/view_iso-2.png) |
 
 ---
 
@@ -70,3 +70,19 @@ shaft_catia_v5
 3. Aller dans File > Open
 4. Sélectionner le fichier .CATPart
 5. Explorer l’arbre de conception dans Part Design
+
+## 🛠️ Logiciel utilisé
+CATIA V5 — Dassault Systèmes
+Module : Part Design
+Format : .CATPart
+
+## 👤 Auteur
+
+Nom : Mohamed Reda Zhar
+GitHub : @MohamedReda2003
+
+Établissement : ENSA
+
+## 📄 Licence
+
+Projet à but éducatif. Libre d’utilisation avec mention de l’auteur.
