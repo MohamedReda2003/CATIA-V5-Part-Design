@@ -15,7 +15,7 @@ Ce type de pièce est couramment utilisé dans les systèmes mécaniques pour :
 - l’assemblage avec clavettes ou goupilles
 
 ---
-
+```
 ## 🗂️ Structure de l'arbre de conception (Feature Tree)
 shaft_catia_v5
 ├── xy plane
@@ -30,6 +30,7 @@ shaft_catia_v5
 │ └── Angle
 ├── Pocket.1 ← Sketch.4 (rainure longitudinale)
 └── Material (Light Beige)
+```
 ---
 
 ## ⚙️ Fonctions CATIA utilisées
