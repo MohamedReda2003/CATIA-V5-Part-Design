@@ -54,7 +54,7 @@ exercice_catia_v5
 
 | Vue multi-fenêtres | Vue isométrique |
 |---|---|
-| ![Multi-view](screenshots/multiview.png) | ![Isometric](screenshots/view_iso.png) |
+| ![Multi-view](../screenshots/multiview.png) | ![Isometric](../screenshots/view_iso.png) |
 
 
 
@@ -70,18 +70,6 @@ exercice_catia_v5
 3. Aller dans `File > Open` et sélectionner le fichier `.CATPart` du projet.
 4. L'arbre de conception se chargera automatiquement avec toutes les fonctions.
 
----
-
-## 📁 Contenu du dépôt
-
-```
-exercice_catia_v5/
-├── exercice_catia_v5.CATPart   ← Fichier principal de la pièce
-├── screenshots/
-│   ├── multiview.png
-│   └── view_iso.png
-└── README.md
-```
 
 ---
 
