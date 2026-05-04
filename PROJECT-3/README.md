@@ -81,7 +81,7 @@ bearing_catia_v5
 
 - **Nom :** Mohamed Reda Zhar
 - **GitHub :** [@MohamedReda2003](https://github.com/MohamedReda2003)  
-- **Établissement :** ENSA
+- **Établissement :** ENSA Tétouan
 
 ## 📄 Licence
 
