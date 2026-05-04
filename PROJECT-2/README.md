@@ -78,10 +78,10 @@ Format : .CATPart
 
 ## 👤 Auteur
 
-Nom : Mohamed Reda Zhar
-GitHub : @MohamedReda2003
+**Nom :** Mohamed Reda Zhar
+**GitHub :** @MohamedReda2003
 
-Établissement : ENSA
+**Établissement :** ENSA Tétouan
 
 ## 📄 Licence
 
