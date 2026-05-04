@@ -1,7 +1,7 @@
 # 🔧 Exercice CATIA V5 — Part Design
 
 <p align="center">
-  <img src="screenshots/view_iso.png" alt="CATIA V5 Part - Vue isométrique" width="600"/>
+  <img src="../screenshots/view_iso.png" alt="CATIA V5 Part - Vue isométrique" width="600"/>
 </p>
 
 ## 📋 Description
