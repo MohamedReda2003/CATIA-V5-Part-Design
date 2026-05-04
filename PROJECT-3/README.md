@@ -1,7 +1,7 @@
 # 🔧 Exercice CATIA V5 — Roulement (Bearing)
 
 <p align="center">
-  <img src="../screenshots/view_iso.png" alt="Roulement CATIA V5 - Vue isométrique" width="600"/>
+  <img src="../screenshots/view_iso-3.png" alt="Roulement CATIA V5 - Vue isométrique" width="600"/>
 </p>
 
 ## 📋 Description
