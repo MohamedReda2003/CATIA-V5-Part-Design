@@ -71,10 +71,12 @@ shaft_catia_v5
 4. Sélectionner le fichier .CATPart
 5. Explorer l’arbre de conception dans Part Design
 
-## 🛠️ Logiciel utilisé
-CATIA V5 — Dassault Systèmes
-Module : Part Design
-Format : .CATPart
+🛠️ Logiciel utilisé
+**CATIA V5 — Dassault Systèmes**
+
+**Module :** Part Design
+
+**Format :** .CATPart
 
 ## 👤 Auteur
 
