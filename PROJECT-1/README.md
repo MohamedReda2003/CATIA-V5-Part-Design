@@ -85,9 +85,9 @@ exercice_catia_v5
 
 > Remplacez cette section avec vos informations personnelles.
 
-**Nom :** Votre Nom  
-**GitHub :** [@votre-username](https://github.com/votre-username)  
-**Établissement / Entreprise :** _(optionnel)_
+**Nom :** Mohamed Reda Zhar   
+**GitHub :** [@votre-username](https://github.com/MohamedReda2003)  
+**Établissement / Entreprise :** ENSA Tétouan
 
 ---
 
